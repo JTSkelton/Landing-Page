@@ -1,0 +1,12 @@
+html, body{
+  Height: 100%;
+  Width: 100%;
+}
+
+.jumbotron{
+  text-align: center;
+}
+
+.card-title{
+  text-align: center;
+}
