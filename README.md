@@ -22,7 +22,7 @@ https://jtskelton.github.io/Landing-Page/
 
 ## Known Bugs
 
-* No know bugs
+* When displayed on GitHub Pages, the d-flex boxes don't work. 
 
 ## License
 
