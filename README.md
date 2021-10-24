@@ -25,6 +25,7 @@ https://jtskelton.github.io/Landing-Page/
 
 * GitHub pages displays boxes misaligned
 * Github pages does not display my button
+* Github pages changed margins at different points
 ## License
 
 If there are ay issues with the page, please reach out to me at: skelton.jt9@gmail.com
