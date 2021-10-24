@@ -5,6 +5,9 @@
 ## Description
 #### This page was created as a cover for my Github profile. This will allow visitors to learn about me and explore my projects.
 
+## Project Link
+
+https://jtskelton.github.io/Landing-Page/
 ## Technologies Used
 
 * HTML
