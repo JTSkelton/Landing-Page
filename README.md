@@ -2,6 +2,7 @@
 
 #### By Jack Skelton
 
+## Description
 #### This page was created as a cover for my Github profile. This will allow visitors to learn about me and explore my projects.
 
 ## Technologies Used
