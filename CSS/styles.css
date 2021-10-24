@@ -41,9 +41,10 @@ top: 10%;
   background-color: #fff;
   background-clip: border-box;
   border-radius: 0.25rem;
-margin: 4px;
-padding: 2px;
-border: 2px solid rgba(0, 0, 0, 0.125);
+  margin: 4px;
+  padding: 2px;
+  border: 2px solid rgba(0, 0, 0, 0.125);
+  height: 430px;
 }
 
 .card-title{
