@@ -12,6 +12,7 @@ html, body{
 .jumbotron{
   text-align: center;
   background-size: cover;
+  background-color: rgb(31, 29, 29);
 }
 
 @media (min-width: 576px) {
