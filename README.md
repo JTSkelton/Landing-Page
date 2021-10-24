@@ -22,7 +22,8 @@ https://jtskelton.github.io/Landing-Page/
 
 ## Known Bugs
 
-* GitHub displays boxes misaligned
+* GitHub pages displays boxes misaligned
+* Github pages does not display my button
 
 ## License
 
