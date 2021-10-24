@@ -1,4 +1,4 @@
-# Jacks Langing Page
+# Jacks Landing Page
 
 #### By Jack Skelton
 
@@ -14,11 +14,11 @@
 
 ## Setup/Installation Requirements
 
-* Please open the GitHub link provided on this REAME. You will be directed to the landing page where you can read about me and explore my projects.
+* Please open the GitHub link provided on this README. You will be directed to the landing page where you can read about me and explore my projects.
 
 ## Known Bugs
 
-* No know bugs
+* GitHub displays boxes misaligned
 
 ## License
 
