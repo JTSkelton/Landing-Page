@@ -2,6 +2,7 @@
 
 #### By Jack Skelton
 
+## Description
 #### This page was created as a cover for my Github profile. This will allow visitors to learn about me and explore my projects.
 
 ## Project Link
@@ -18,7 +19,7 @@ https://jtskelton.github.io/Landing-Page/
 
 ## Setup/Installation Requirements
 
-* Please open the GitHub link provided on this REAME. You will be directed to the landing page where you can read about me and explore my projects.
+* Please open the GitHub link provided on this README. You will be directed to the landing page where you can read about me and explore my projects.
 
 ## Known Bugs
 
