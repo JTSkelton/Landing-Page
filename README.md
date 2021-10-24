@@ -23,8 +23,8 @@ https://jtskelton.github.io/Landing-Page/
 
 ## Known Bugs
 
-* When displayed on GitHub Pages, the d-flex boxes don't work. 
-
+* GitHub pages displays boxes misaligned
+* Github pages does not display my button
 ## License
 
 If there are ay issues with the page, please reach out to me at: skelton.jt9@gmail.com
