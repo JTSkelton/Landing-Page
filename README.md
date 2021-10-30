@@ -8,7 +8,6 @@
 ## Project Link
 
 https://jtskelton.github.io/Landing-Page/
-
 ## Technologies Used
 
 * HTML
