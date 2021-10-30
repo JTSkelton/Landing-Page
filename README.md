@@ -29,12 +29,7 @@ https://jtskelton.github.io/Landing-Page/
 2) Paste the link in the terminal after the 'git clone' command
 3) The repository is now copied to your device. You can now navigate to the files in the directory labeled 'Landing-Page' and open with your choice of text-editor.
 
-<<<<<<< HEAD
-* GitHub pages displays boxes misaligned
-* Github pages does not display my button
-=======
 ## Known Bugs
->>>>>>> main
 
 * GitHub pages displays boxes misaligned
 * Github pages does not display my button
